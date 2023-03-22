@@ -36,10 +36,15 @@ h3{
     margin-top: 0px;
     color: white;
 }
+
+#pra{
+  color: #D5D4D8;
+  font-weight: bold;
+}
 p{
   margin-top: 10px;
   margin-left: 52px;
-   color: #D5D4D8;
+   
 width: 372px;
 height: 28px;
 left: 52px;
@@ -57,7 +62,7 @@ line-height: 28px;
 
 /* Medium grey */
 
-color: #D5D4D8;
+
 }
 #btngene{
     display: flex;
@@ -222,6 +227,6 @@ label{
    border: solid 2px #000;
  }
 
-.light-theme h1,p,hr{
+.light-theme ,#pra,h1,p,hr{
     color: #000;
 }
