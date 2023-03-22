@@ -38,7 +38,7 @@ h3{
 }
 
 #pra{
-  color: #D5D4D8;
+  color: red;
   font-weight: bold;
 }
 p{
@@ -228,5 +228,5 @@ label{
  }
 
 .light-theme ,#pra,h1,p,hr{
-    color: #000;
+    color: red;
 }
